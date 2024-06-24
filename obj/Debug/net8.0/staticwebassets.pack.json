@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\css\\app.c8d8f98a.css",
+      "PackagePath": "staticwebassets\\css\\app.c8d8f98a.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\img\\Summa-Logo.6654907d.png",
+      "PackagePath": "staticwebassets\\img\\Summa-Logo.6654907d.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\js\\app.62ca299c.js",
+      "PackagePath": "staticwebassets\\js\\app.62ca299c.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\js\\app.62ca299c.js.map",
+      "PackagePath": "staticwebassets\\js\\app.62ca299c.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\js\\chunk-vendors.422e540e.js",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.422e540e.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel khait\\Documents\\GitHub\\Summa\\UserFormApi\\wwwroot\\js\\chunk-vendors.422e540e.js.map",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.422e540e.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UserFormApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UserFormApi.props",
+      "PackagePath": "build\\UserFormApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UserFormApi.props",
+      "PackagePath": "buildMultiTargeting\\UserFormApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UserFormApi.props",
+      "PackagePath": "buildTransitive\\UserFormApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

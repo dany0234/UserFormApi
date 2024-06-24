@@ -1,0 +1,7 @@
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.csproj.AssemblyReference.cache
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.AssemblyInfoInputs.cache
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.AssemblyInfo.cs
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.csproj.CoreCompileInputs.cache
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel khait\Documents\GitHub\Summa\UserFormApi\obj\Debug\net7.0\UserFormApi.MvcApplicationPartsAssemblyInfo.cache
